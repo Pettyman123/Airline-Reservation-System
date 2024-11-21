@@ -1,5 +1,5 @@
 <h1><b>Airline Reservation System Website</b></h1>
-Welcome to the Airline Reservation System website repository. This project is built using Python and Django, aiming to provide a robust and user-friendly platform for booking and managing airline reservations.
+Welcome to the Airline Reservation System website repository. This project is built using Python and Django, aiming to provide a robust and user-friendly platform for booking and managing airline reservation.
 
  ![WhatsApp Image 2024-07-10 at 15 18 51_edf1f309](https://github.com/Pettyman123/Airline-Reservation-System/assets/96339698/de6ffa56-42e7-490b-91cc-cdf985aefded)
 
